@@ -1,0 +1,8 @@
+
+<p class="fields">
+On <%= f.select :date , (1..7).map {|weekday| [(l (Date.today + weekday.days),:format=>:long),Date.today + weekday.days] } %>
+from <%=f.select :from, timeslot_options(Freetime.timeslots) %>
+to  <%= f.select :to, timeslot_options(Freetime.timeslots) %>
+<%= f.hidden_field :_destroy %>
+<%= link_to_function "Remove", "remove_fields(this)" %>
+</p>

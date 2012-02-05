@@ -1,0 +1,20 @@
+
+<h1>Lunchtown </h1>
+<h4> Get to meet different people </h4>
+<div>
+    <h5> How this works</h5>
+    Here, you can sign up whenever you have free time to grab lunch with someone and we will randomly assign you to
+    a new person every time!
+</div>
+<div class="flash"><%= flash[:notice] %></div>
+When do you usually have time next week?
+<%= form_for  @person  do |f|%>
+                <div id="error-messages"><%= f.error_messages %></div>
+<%= f.fields_for :freetimes  do |builder| %>
+<%= render :partial=>"freetime_fields", :locals =>{:f => builder} %>
+<%end %>
+<p><%= link_to_add_fields "Add Timeslot", f, :freetimes %></p>
+<p>
+<%= f.submit "Save" %>
+</p>
+<% end %>

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  lunchdate_id: 1
+  timeslot_id: 1
+  location_id: 1
+  date: 2012-02-04
+
+two:
+  lunchdate_id: 1
+  timeslot_id: 1
+  location_id: 1
+  date: 2012-02-04
