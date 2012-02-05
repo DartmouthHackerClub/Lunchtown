@@ -10,15 +10,16 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120205004251) do
+ActiveRecord::Schema.define(:version => 20120205043938) do
 
   create_table "appointments", :force => true do |t|
-    t.integer  "lunchdate_id"
-    t.integer  "timeslot_id"
+    t.integer  "person_id"
     t.integer  "location_id"
     t.date     "date"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "person1_id"
+    t.integer  "person2_id"
   end
 
   create_table "freetimes", :force => true do |t|
