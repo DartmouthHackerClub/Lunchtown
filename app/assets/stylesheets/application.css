@@ -5,3 +5,26 @@
  *= require_self
  *= require_tree . 
 */
+.main {
+width: 800px;
+height: 700px;
+left: 50%;
+margin-left: 25%;
+}
+.main h1{
+    text-align: center;
+}
+.flash{
+    background-color: #f08080;
+}
+.valentines{
+    text-align: center;
+    font-weight: bold;
+    background-color:#afeeee;
+    border-radius: 10px;
+}
+body {
+    background-image: url("Glossy_Heart_by_Merlin2525.svg");
+    background-repeat :no-repeat;
+    background-position: center;
+}

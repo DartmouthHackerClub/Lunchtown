@@ -8,4 +8,4 @@ en:
       long: "%a %b %d"
   person:
     update:
-      flash: "Thank you, we have successfully rescheduled"
+      flash: "Thank you!"
