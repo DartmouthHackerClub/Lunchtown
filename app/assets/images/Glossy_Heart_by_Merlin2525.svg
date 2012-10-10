@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="451.09" width="542.46" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <filter id="filter5921-5" width="1.2139541" y="-0.10593132" x="-0.10697704" height="1.2118626" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="8.473358"/>
+  </filter>
+  <linearGradient id="linearGradient11437" x1="-368.12" gradientUnits="userSpaceOnUse" x2="-364.66" gradientTransform="translate(267.49987,-218.95759)" y1="677.43" y2="535.84">
+   <stop stop-color="#2b0000" offset="0"/>
+   <stop stop-color="#F00" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient11472" x1="-610.89" gradientUnits="userSpaceOnUse" x2="-375.76" gradientTransform="translate(264.99652,-221.46095)" y1="455.76" y2="495.53">
+   <stop stop-color="#2b0000" offset="0"/>
+   <stop stop-color="#F00" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient11507" x1="-114.69" gradientUnits="userSpaceOnUse" x2="-465.66" gradientTransform="translate(270.00324,-222.71263)" y1="403.9" y2="467.87">
+   <stop stop-color="#2b0000" offset="0"/>
+   <stop stop-color="#F00" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter5921" width="1.2139541" y="-0.10593132" x="-0.10697704" height="1.2118626" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="8.473358"/>
+  </filter>
+  <filter id="filter5111" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="8.624555"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(357.79446,-48.994333)">
+  <path opacity="0.83076926" d="m-89.964,479.39c-413.55-121.24-233.37-604.64,0-322.78,233.37-281.86,429.81,201.54,0,322.78z" filter="url(#filter5111)" fill="#000"/>
+ </g>
+ <g transform="translate(357.79446,-48.994333)">
+  <path fill="#F00" d="m-102.26,460.67c-413.55-121.24-233.37-604.64,0-322.78,233.37-281.86,429.81,201.54,0,322.78z"/>
+  <path opacity="0.647541" d="M-58.713,115.19c154.57-109.08,244.52,27.29,153.88,152.15,7.653-65.92-61.564-167.65-153.88-152.15z" fill-opacity="0.16363633" filter="url(#filter5921-5)" fill="#FFF"/>
+ </g>
+ <g transform="translate(357.79446,-48.994333)">
+  <path fill="url(#linearGradient11437)" d="m-102.26,463.17c-413.55-121.24-233.37-604.64,0-322.78,233.37-281.86,429.81,201.54,0,322.78z"/>
+ </g>
+ <g transform="translate(357.79446,-48.994333)">
+  <path fill="url(#linearGradient11507)" d="m-99.758,459.42c-413.55-121.24-233.37-604.64,0-322.78,233.37-281.86,429.81,201.54,0,322.78z"/>
+ </g>
+ <g transform="translate(357.79446,-48.994333)">
+  <path fill="url(#linearGradient11472)" d="m-104.76,460.67c-413.55-121.24-233.37-604.64,0-322.78,233.37-281.86,429.81,201.54,0,322.78z"/>
+ </g>
+ <g transform="translate(357.79446,-48.994333)">
+  <path opacity="0.60769228" d="M-58.713,115.19c154.57-109.08,244.52,27.29,153.88,152.15,7.653-65.92-61.564-167.65-153.88-152.15z" fill-opacity="0.16363633" filter="url(#filter5921)" fill="#FFF"/>
+ </g>
+</svg>

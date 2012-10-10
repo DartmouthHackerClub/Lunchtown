@@ -1,0 +1,30 @@
+/*
+ * This is a manifest file that'll automatically include all the stylesheets available in this directory
+ * and any sub-directories. You're free to add application-wide styles to this file and they'll appear at
+ * the top of the compiled file, but it's generally better to create a new file per style scope.
+ *= require_self
+ *= require_tree . 
+*/
+.main {
+width: 800px;
+height: 700px;
+left: 50%;
+margin-left: 25%;
+}
+.main h1{
+    text-align: center;
+}
+.flash{
+    background-color: #f08080;
+}
+.valentines{
+    text-align: center;
+    font-weight: bold;
+    background-color:#afeeee;
+    border-radius: 10px;
+}
+body {
+    background-image: url("Glossy_Heart_by_Merlin2525.svg");
+    background-repeat :no-repeat;
+    background-position: center;
+}

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  dnd_id: MyString
+  email: MyString
+  fullname: MyString
+
+two:
+  dnd_id: MyString
+  email: MyString
+  fullname: MyString

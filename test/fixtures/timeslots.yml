@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  weekday: 1
+  hour: 1
+  minute: 1
+
+two:
+  weekday: 1
+  hour: 1
+  minute: 1
